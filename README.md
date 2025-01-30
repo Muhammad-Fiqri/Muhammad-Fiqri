@@ -54,12 +54,12 @@ I'm currently studying at Gunadarma University majoring in Computer Science.
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just have a chat. Have a great day! 😊
 
-<div>
+<div style="width:100%;">
   <div>
-    <img src="React.png">
+    <img style="width:33%; display:block; float:left;" src="React.png">
   </div>
   <div>
-    <img src="Vue.png">
+    <img style="width:33%; display:block; float:left;" src="Vue.png">
   </div>
 </div>
 
