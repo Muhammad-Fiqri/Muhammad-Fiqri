@@ -54,4 +54,10 @@ I'm currently studying at Gunadarma University majoring in Computer Science.
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just have a chat. Have a great day! 😊
 
+<div>
+  <div>
+    <img src="">
+  </div>
+</div>
+
 <!--https://dev.to/github/how-to-create-a-github-profile-readme-jha-->
