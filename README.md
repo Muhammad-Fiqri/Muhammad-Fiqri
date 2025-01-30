@@ -15,7 +15,7 @@ I'm also a content creator on YouTube.
 ## My Main Skills
 
 ### Front End Web Development
-- **Languages & Frameworks**: HTML, Tailwind/Sass/CSS, JavaScript/JQuery/React/Next.js & Redux.js, Streamlit
+- **Languages & Frameworks**: HTML, Tailwind/Sass/CSS, JavaScript/JQuery/React/Next/Vue.js & Redux.js, Streamlit
 
 ### Back End Development
 - **Languages & Tools**: PHP, MariaDB, PHPMyAdmin, MySQL, Axios, PostgreSQL, Supabase, Python, Flask, Postman
