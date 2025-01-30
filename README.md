@@ -76,6 +76,31 @@ Thanks for visiting my profile! Feel free to reach out if you want to collaborat
         <img style="background: lightblue; padding: 20px; width: 100px;" src="expressjs.png">
       </a>
     </td>
+    <td>
+      <a href="https://redux.js.org/">
+        <img style="background: lightblue; padding: 20px; width: 100px;" src="redux.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://tailwindcss.com/">
+        <img style="background: lightblue; padding: 20px; width: 100px;" src="tailwind.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img style="background: lightblue; padding: 20px; width: 100px;" src="js.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://sass-lang.com/">
+        <img style="background: lightblue; padding: 20px; width: 100px;" src="Sass.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://jquery.com/">
+        <img style="background: lightblue; padding: 20px; width: 100px;" src="JQuery.png">
+      </a>
+    </td>
   </tr>
 </table>
 
