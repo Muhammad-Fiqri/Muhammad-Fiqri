@@ -41,7 +41,7 @@ I'm currently studying at Gunadarma University majoring in Computer Science.
 ## Technologies & Tools
 
 - **Front End**: React.js, Next.js, Vue.js, Redux.js, Express.js, JQuery, Javascript (ECMAScript), Tailwind CSS, Sass CSS
-- **Back End**: Axios API NPM Module, PostgreSQL, Supabase, MySQL MariaDB (XAMPP), Flask, PHP, Python, Streamlit, Golang
+- **Back End**: Axios, PostgreSQL, Supabase, MySQL MariaDB (XAMPP), Flask, PHP, Python, Streamlit, Golang
 - **DevOps**: Docker
 - **Game Development**: Godot Engine, GDScript, Blender, Roblox Studio
 - **Design**: Figma
