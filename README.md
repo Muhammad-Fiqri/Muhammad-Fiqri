@@ -56,7 +56,10 @@ Thanks for visiting my profile! Feel free to reach out if you want to collaborat
 
 <div>
   <div>
-    <img src="">
+    <img src="React.png">
+  </div>
+  <div>
+    <img src="Vue.png">
   </div>
 </div>
 
