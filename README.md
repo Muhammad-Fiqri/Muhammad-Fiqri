@@ -54,13 +54,29 @@ I'm currently studying at Gunadarma University majoring in Computer Science.
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just have a chat. Have a great day! 😊
 
-<div style="width:100%;">
-  <div>
-    <img style="width:33%; display:block; float:left;" src="React.png">
-  </div>
-  <div>
-    <img style="width:33%; display:block; float:left;" src="Vue.png">
-  </div>
-</div>
+<table style="border-radius: 10px">
+  <tr>
+    <td>
+      <a href="https://github.com/Muhammad-Fiqri/Fallout-4-Radio">
+        <img style="background: lightblue; padding: 20px; width: 100px;" src="React.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Muhammad-Fiqri/Learning-Vue--Calculator-App-">
+        <img style="background: lightblue; padding: 20px; width: 100px;" src="Vue.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://nextjs.org/">
+        <img style="background: lightblue; padding: 20px; width: 100px;" src="nextjs.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://expressjs.com/">
+        <img style="background: lightblue; padding: 20px; width: 100px;" src="expressjs.png">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--https://dev.to/github/how-to-create-a-github-profile-readme-jha-->
