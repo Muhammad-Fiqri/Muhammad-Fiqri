@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Fiqri 👋
 
-Welcome to my GitHub profile! I'm a Junior Fullstack Web Developer & DevOps at Patria & Co. Here's a bit about me:
+Welcome to my GitHub profile! I'm a Fullstack Web Developer & Game Developer at Fiverr. Here's a bit about me:
 
 ## About Me
 
