@@ -31,7 +31,7 @@ I'm also a content creator on YouTube.
 
 ## Additional Skills
 - **Video Editing**: Adobe Premiere Pro
-- **Graphic Design**: Adobe Photoshop, Adobe Illustrator
+- **Graphic Design**: Adobe Photoshop, Adobe Illustrator, Krita.
 - **Motion Graphic Animation**: Adobe After Effects
 - **Translation**: English <-> Indonesian
 
