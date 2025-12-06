@@ -104,4 +104,10 @@ Thanks for visiting my profile! Feel free to reach out if you want to collaborat
   </tr>
 </table>
 
-<!--https://dev.to/github/how-to-create-a-github-profile-readme-jha-->
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Muhammad-Fiqri">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Muhammad-Fiqri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Fiqri&layout=compact&theme=algolia"/>
+</a>
+</p>
