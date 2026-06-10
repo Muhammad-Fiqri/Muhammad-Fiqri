@@ -108,6 +108,11 @@ Thanks for visiting my profile! Feel free to reach out if you want to collaborat
         <img style="background: lightblue; padding: 20px; width: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/500px-Godot_icon.svg.png">
       </a>
     </td>
+    <td>
+      <a href="https://www.blender.org/">
+        <img style="background: lightblue; padding: 20px; width: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png">
+      </a>
+    </td>
   </tr>
 </table>
 
